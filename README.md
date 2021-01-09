@@ -10,7 +10,7 @@ Data were extracted from images that were taken from genuine and forged banknote
 Model was deployed using **Flask** and **Flasgger(Swagger API)** . Flasgger is an amazing library to work with if you don't have experience with front end development. It creates a substantial UI in just a few lines of code
 
 
-![Flasgger](https://drive.google.com/file/d/1Biou7T7gMjHAqVGY7U85H8uScZ5G23Ai/view?usp=sharing)
-![Flasgger](https://drive.google.com/file/d/1Biou7T7gMjHAqVGY7U85H8uScZ5G23Ai/view?usp=sharing)
+![Flasgger](https://twitter.com/alphawave_321/status/1347964804221132801/photo/1)
+![Flasgger](https://twitter.com/alphawave_321/status/1347964804221132801/photo/2)
 
 
