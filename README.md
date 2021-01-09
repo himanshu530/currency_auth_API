@@ -14,3 +14,14 @@ Model was deployed using **Flask** and **Flasgger(Swagger API)** . Flasgger is a
 ![Flasgger](https://twitter.com/alphawave_321/status/1347964804221132801/photo/2)
 
 
+## Run the API on Localhost:
+
+* conda create virtual-env
+* conda activate virtual env
+* pip install -r requirements.txt
+* cd/project_directory
+  * python app.py
+
+## Contributers
+
+* @himanshu530
